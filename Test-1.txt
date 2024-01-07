@@ -1,9 +1,10 @@
 Daftar keinginan saya pada tahun 2024
--Belajar bahasa JavaScript
--Belajar Boostrap
--Belajar Next js
--Belajar right js
+-Belajar menguasai bahasa JavaScript
+-Belajar menggunakan Boostrap
+-Belajar menggunakan Next js
+-Belajar menggunakan right js
 
 dan untuk Backend
 -belajar mysql
 -belajar laravel
+-belajar menguasai bahasa python
