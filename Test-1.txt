@@ -8,3 +8,4 @@ dan untuk Backend
 -belajar mysql
 -belajar laravel
 -belajar menguasai bahasa python
+-Belajar menguasai bahasa C++
