@@ -9,12 +9,11 @@ dan untuk Backend
 -belajar laravel
 -belajar menguasai bahasa python
 -Belajar menguasai bahasa C++
-hello world
-hello world
-/.a[p[wklallks
+
 
 test
 -project cabang hari ini
 -mempelajari penggunaan github
 -belajar Commit 1 cabang
+-belajar Commit 2 cabang
 
