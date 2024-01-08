@@ -12,10 +12,14 @@ dan untuk Backend
 -belajar menguasai bahasa php
 
 
-test
+test Branch
 -project cabang hari ini
 -mempelajari penggunaan github
 -belajar Commit 1 cabang
 -belajar Commit 2 cabang
+
+Orang ke 1
+-Saya ingin belajar bahasa ruby
+-saya juga ingin mendalami cyber security
 
 
