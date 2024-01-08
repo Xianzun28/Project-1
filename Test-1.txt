@@ -18,9 +18,14 @@ test Branch
 -belajar Commit 1 cabang
 -belajar Commit 2 cabang
 
+
+Orang ke 2
+-Lebih Baik fokus web devlop
+
 Orang ke 1
 -Saya ingin belajar bahasa ruby
 -saya juga ingin mendalami cyber security
 -saya ingin belajar dasar-dasar cyber security
+
 
 
