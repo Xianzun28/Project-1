@@ -21,5 +21,6 @@ test Branch
 Orang ke 1
 -Saya ingin belajar bahasa ruby
 -saya juga ingin mendalami cyber security
+-saya ingin belajar dasar-dasar cyber security
 
 
