@@ -9,6 +9,7 @@ dan untuk Backend
 -belajar laravel
 -belajar menguasai bahasa python
 -Belajar menguasai bahasa C++
+-belajar menguasai bahasa php
 
 
 test
@@ -16,4 +17,5 @@ test
 -mempelajari penggunaan github
 -belajar Commit 1 cabang
 -belajar Commit 2 cabang
+
 
