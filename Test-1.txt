@@ -21,5 +21,6 @@ test
 Orang ke 2
 -Lebih Baik fokus web devlop
 -belajar menguasai bahasa JS.
+-Mengerti tentang DataBase
 
 
