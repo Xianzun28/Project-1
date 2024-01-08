@@ -9,3 +9,8 @@ dan untuk Backend
 -belajar laravel
 -belajar menguasai bahasa python
 -Belajar menguasai bahasa C++
+
+
+test
+-project cabang hari ini
+-mempelajari penggunaan github
